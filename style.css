@@ -1,0 +1,22 @@
+body{
+    background-color: cadetblue;
+}
+
+.title{
+    color: coral;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: bold;
+}
+
+.subtitulo{
+    color: brown;
+    border: bold;
+}
+
+.link{
+    font-size: 25px;
+    border: bold;
+}
+
